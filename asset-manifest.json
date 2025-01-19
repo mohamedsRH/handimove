@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/handimove/static/css/main.cc58c2c2.css",
-    "main.js": "/handimove/static/js/main.d93cdfcd.js",
+    "main.js": "/handimove/static/js/main.af6d075c.js",
     "index.html": "/handimove/index.html",
     "main.cc58c2c2.css.map": "/handimove/static/css/main.cc58c2c2.css.map",
-    "main.d93cdfcd.js.map": "/handimove/static/js/main.d93cdfcd.js.map"
+    "main.af6d075c.js.map": "/handimove/static/js/main.af6d075c.js.map"
   },
   "entrypoints": [
     "static/css/main.cc58c2c2.css",
-    "static/js/main.d93cdfcd.js"
+    "static/js/main.af6d075c.js"
   ]
 }
